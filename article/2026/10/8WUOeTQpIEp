@@ -1,0 +1,36 @@
+{
+  "appearance": "modern",
+  "blocks": [
+    {
+      "data": {
+        "text": "<b>ジェフリー・アーノルド・ベック</b>（<b>Geoffrey Arnold \"Jeff\" Beck</b>、<a href=\"https://ja.wikipedia.org/wiki/1944%E5%B9%B4\">1944年</a><a href=\"https://ja.wikipedia.org/wiki/6%E6%9C%8824%E6%97%A5\">6月24日</a> - <a href=\"https://ja.wikipedia.org/wiki/2023%E5%B9%B4\">2023年</a><a href=\"https://ja.wikipedia.org/wiki/1%E6%9C%8810%E6%97%A5\">1月10日</a><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%99%E3%83%83%E3%82%AF#cite_note-1\">[1]</a>）は、<a href=\"https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89\">イングランド</a>出身の<a href=\"https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88\">ギタリスト</a><a href=\"https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%99%E3%83%83%E3%82%AF#cite_note-2\">[2]</a>である。"
+      },
+      "id": "Eim0_yY7T3",
+      "type": "paragraph"
+    },
+    {
+      "data": {
+        "text": "日本では、<a href=\"https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%97%E3%83%88%E3%83%B3\">エリック・クラプトン</a>、<a href=\"https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%9A%E3%82%A4%E3%82%B8\">ジミー・ペイジ</a>と並ぶ<a href=\"https://ja.wikipedia.org/wiki/3%E5%A4%A7%E3%82%AE%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88\">3大ギタリスト</a>の一人とされている。『<a href=\"https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3\">ローリング・ストーン</a>』誌の選ぶ「最も偉大な100人のギタリスト」において2003年は第14位、2011年の改訂版では第5位。"
+      },
+      "id": "IZVdglquhF",
+      "type": "paragraph"
+    },
+    {
+      "data": {
+        "level": 2,
+        "text": ""
+      },
+      "id": "m9KBtf4NT6",
+      "type": "header"
+    }
+  ],
+  "desc": "",
+  "tid": "8WUOeTQpIEp",
+  "time": 1791359598157,
+  "title": "Wired",
+  "title_img": {
+    "file": "img_8WUOeTQpIEp_1790988435382_16fb8e7f.jpg",
+    "hash": "oms2oZ2/HjPuNO0TI0wpwUUSnL/YU8JDYtjkAuDaHDw="
+  },
+  "version": "2.31.2"
+}
