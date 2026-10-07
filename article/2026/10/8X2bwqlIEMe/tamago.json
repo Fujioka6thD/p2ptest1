@@ -3,7 +3,7 @@
   "blocks": [
     {
       "data": {
-        "text": "インドネシアGP：10月9日〜11日（マンダリカ）オーストラリアGP：10月22日〜25日（フィリップ・アイランド）マレーシアGP：10月30日〜11月1日（セパン）カタールGP：11月6日〜8日（ルサイル）ポルトガルGP：11月20日〜22日（アルガルヴェ）バレンシアGP：11月27日〜29日（リカルド・トルモ）&nbsp;"
+        "text": "インドネシアGP：10月9日〜11日（マンダリカ）オーストラリアGP：10月22日〜25日（フィリップ・アイランド）マレーシアGP：10月30日〜11月1日（セパン）カタールGP：11月6日〜8日（ルサイル）ポルトガルGP：11月20日〜22日（アルガルヴェ）バレンシアGP：11月27日〜29日（リカルド・トルモ） XER"
       },
       "id": "erZOAVSWmI",
       "type": "paragraph"
@@ -16,17 +16,31 @@
           "url": "img_8X2bwqlIEMe_1791372459596_cc39c6ac.webp"
         },
         "stretched": false,
-        "url": "img_8X2bwqlIEMe_1791372459596_cc39c6ac.webp",
         "withBackground": false,
         "withBorder": false
       },
       "id": "w7R37ueuO8",
       "type": "image"
+    },
+    {
+      "data": {
+        "caption": "YAMAHA XSR900",
+        "file": {
+          "hash": "HRJBnsC07qpp/j/lp3p8mGq47KR429h+B8Ie7EPuBho=",
+          "url": "img_8X2bwqlIEMe_1791376754136_20b4a425.jpg"
+        },
+        "stretched": false,
+        "url": "img_8X2bwqlIEMe_1791376754136_20b4a425.jpg",
+        "withBackground": false,
+        "withBorder": false
+      },
+      "id": "VKTwgYbHR2",
+      "type": "image"
     }
   ],
   "desc": "",
   "tid": "8X2bwqlIEMe",
-  "time": 1791372460158,
+  "time": 1791376788955,
   "title": "MotoGP",
   "title_img": {
     "file": "img_8X2bwqlIEMe_1791372381846_c64a555b.jpg",
