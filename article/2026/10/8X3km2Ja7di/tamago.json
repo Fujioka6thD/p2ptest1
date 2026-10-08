@@ -1,22 +1,6 @@
 {
   "appearance": "modern",
-  "blocks": [
-    {
-      "data": {
-        "caption": "",
-        "file": {
-          "hash": "UuPvm4IyLjDg9JfYHPWsbhf0pecADhgS5OvRdTtNdh4=",
-          "url": "img_8X3km2Ja7di_1791431890645_6fe01b7d.jpg"
-        },
-        "stretched": false,
-        "url": "img_8X3km2Ja7di_1791431890645_6fe01b7d.jpg",
-        "withBackground": false,
-        "withBorder": false
-      },
-      "id": "dPkJD5K6IZ",
-      "type": "image"
-    }
-  ],
+  "blocks": [],
   "desc": "",
   "tid": "8X3km2Ja7di",
   "time": 1791431890666,
