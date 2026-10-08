@@ -21,11 +21,33 @@
       },
       "id": "VKTwgYbHR2",
       "type": "image"
+    },
+    {
+      "data": {
+        "level": 2,
+        "text": "ABOUT｜Ninja H2とは"
+      },
+      "id": "JXXbYMmL97",
+      "type": "header"
+    },
+    {
+      "data": {
+        "text": "2015年、カワサキが世に送り出したNinja H2は、「誰も経験したことのない走行体験を実現する」という目標のもと、川崎重工グループの総力を結集して開発されました。"
+      },
+      "id": "SQCFzvwvze",
+      "type": "paragraph"
+    },
+    {
+      "data": {
+        "text": "ガスタービンや航空宇宙技術を含む、川崎重工グループの知見を余すことなく注ぎ込んだ、完全自社設計のモーターサイクル専用スーパーチャージャーを搭載したモデルです"
+      },
+      "id": "0GZ-aUXSlq",
+      "type": "paragraph"
     }
   ],
   "desc": "",
   "tid": "8X2bwqlIEMe",
-  "time": 1791438751984,
+  "time": 1791439247428,
   "title": "MotoGP",
   "title_img": {
     "file": "img_8X2bwqlIEMe_1791372381846_c64a555b.jpg",
