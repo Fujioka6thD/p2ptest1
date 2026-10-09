@@ -1,22 +1,6 @@
 {
   "appearance": "modern",
-  "blocks": [
-    {
-      "data": {
-        "caption": "Bird",
-        "file": {
-          "hash": "VeT5NyZvIopIiIhzsexk8H2Rz7fBtOs3JX7CriL4BEM=",
-          "url": "img_8X5weliDnLE_1791545972257_74b44c65.jpg"
-        },
-        "stretched": false,
-        "url": "img_8X5weliDnLE_1791545972257_74b44c65.jpg",
-        "withBackground": false,
-        "withBorder": false
-      },
-      "id": "GN-IPggmsE",
-      "type": "image"
-    }
-  ],
+  "blocks": [],
   "desc": "",
   "tid": "8X5weliDnLE",
   "time": 1791545979506,
