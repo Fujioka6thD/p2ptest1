@@ -1,0 +1,78 @@
+{
+  "appearance": "modern",
+  "blocks": [
+    {
+      "data": {
+        "caption": "Wired",
+        "file": {
+          "hash": "oms2oZ2/HjPuNO0TI0wpwUUSnL/YU8JDYtjkAuDaHDw=",
+          "url": "img_8X5mchmfuHP_1791537601556_1d50d160.jpg"
+        },
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false
+      },
+      "id": "rTNiQ5W8yR",
+      "type": "image"
+    },
+    {
+      "data": {
+        "caption": "Live In Japan",
+        "file": {
+          "hash": "PyndHOlmvfjlR2PeUSas1tk0188PmQh0PV3iLCAzUIA=",
+          "url": "img_8X5mchmfuHP_1791537609556_8841f995.png"
+        },
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false
+      },
+      "id": "g8lSK_uF8B",
+      "type": "image"
+    },
+    {
+      "data": {
+        "text": "レスポール"
+      },
+      "id": "YsIpBvpb3J",
+      "type": "paragraph"
+    },
+    {
+      "data": {
+        "caption": "Bird",
+        "file": {
+          "hash": "VeT5NyZvIopIiIhzsexk8H2Rz7fBtOs3JX7CriL4BEM=",
+          "url": "img_8X5mchmfuHP_1791538872276_a891b3d0.jpg"
+        },
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false
+      },
+      "id": "ksDnHL12cS",
+      "type": "image"
+    },
+    {
+      "data": {
+        "caption": "ゼマイティス",
+        "file": {
+          "hash": "Qe6I2WTG0GkCGwoa7YIevdN+yZoC6TNalXZg10qXSeU=",
+          "url": "img_8X5mchmfuHP_1791538930707_3d9354a3.jpg"
+        },
+        "stretched": false,
+        "url": "img_8X5mchmfuHP_1791538930707_3d9354a3.jpg",
+        "withBackground": false,
+        "withBorder": false
+      },
+      "id": "NMtEoof1C8",
+      "type": "image"
+    }
+  ],
+  "desc": "",
+  "tid": "8X5mchmfuHP",
+  "time": 1791538948750,
+  "title": "Rock",
+  "title_img": {
+    "file": "img_8X5mchmfuHP_1791537506537_b65de7b9.jpg",
+    "hash": "gLGwAg2Sp3MCWTCFxPuynS5y71R9R7cmXint+ttZG2o="
+  },
+  "version": "2.31.2"
+}
