@@ -3,23 +3,15 @@
   "blocks": [
     {
       "data": {
-        "caption": "",
-        "file": {
-          "hash": "VeT5NyZvIopIiIhzsexk8H2Rz7fBtOs3JX7CriL4BEM=",
-          "url": "img_8X5weliDnLE_1791591447915_94729de6.jpg"
-        },
-        "stretched": false,
-        "url": "img_8X5weliDnLE_1791591447915_94729de6.jpg",
-        "withBackground": false,
-        "withBorder": false
+        "text": "国産EV開発の現状"
       },
-      "id": "FnqNzNEf67",
-      "type": "image"
+      "id": "WyHA0XjaNR",
+      "type": "paragraph"
     }
   ],
   "desc": "",
   "tid": "8X5weliDnLE",
-  "time": 1791591447922,
+  "time": 1791598380887,
   "title": "JAPAN",
   "title_img": {
     "file": "img_8X5weliDnLE_1791545930956_377c8f35.png",
